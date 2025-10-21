@@ -3,9 +3,9 @@
 
 Below is an animated demonstration of the Cubic Polynomial Visualizer. If the GIF does not render on your platform, click the link to open it in full size.
 
-<img src="Demo\polynomial_visualizer_demo.gif" alt="Cubic Polynomial Visualizer demo" style="max-width:100%;height:auto" />
+<img src="Demo/polynomial_visualizer_demo.gif" alt="Cubic Polynomial Visualizer demo" style="max-width:100%;height:auto" />
 
-[Open full-size GIF](Demo\polynomial_visualizer_demo.gif)
+[Open full-size GIF](Demo/polynomial_visualizer_demo.gif)
 
 ## Introduction
 Cubic Polynomial Visualizer is a Python application that allows users to visualize cubic polynomial functions interactively. Users can manipulate the coefficients of the polynomial and see how the graph changes in real-time. This tool is useful for students and educators to understand polynomial behavior and its graphical representation.
